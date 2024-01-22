@@ -1,0 +1,13 @@
+[
+  {
+    "transaction_id": 1,
+    "customers_id": 1,
+    "amount": 100,
+    "type": null,
+    "status": "success",
+    "payload": null,
+    "service": "truewallet",
+    "authors_id": 1,
+    "trasaction_datetime": "2020-11-24 09:57:06.456171"
+  }
+]

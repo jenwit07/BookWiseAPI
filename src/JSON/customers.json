@@ -1,0 +1,46 @@
+[
+  {
+    "customer_id": 1,
+    "gender": "men",
+    "customer_first_name": "สมุย",
+    "customer_last_name": "สมอน",
+    "phone_number": "0954686861",
+    "email_address": "samui@aaa.com",
+    "payload": null,
+    "active_flag": true,
+    "address_id": 1
+  },
+  {
+    "customer_id": 2,
+    "gender": "men",
+    "customer_first_name": "สมุย",
+    "customer_last_name": "สมอน",
+    "phone_number": "0954686861",
+    "email_address": "samui@aaa.com",
+    "payload": null,
+    "active_flag": true,
+    "address_id": 1
+  },
+  {
+    "customer_id": 3,
+    "gender": "men",
+    "customer_first_name": "สมุย",
+    "customer_last_name": "สมอน",
+    "phone_number": "0954686861",
+    "email_address": "samui@aaa.com",
+    "payload": null,
+    "active_flag": true,
+    "address_id": 1
+  },
+  {
+    "customer_id": 4,
+    "gender": "men",
+    "customer_first_name": "สมุย",
+    "customer_last_name": "สมอน",
+    "phone_number": "0954686861",
+    "email_address": "samui@aaa.com",
+    "payload": null,
+    "active_flag": true,
+    "address_id": 1
+  }
+]

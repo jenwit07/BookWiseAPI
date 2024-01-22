@@ -1,0 +1,12 @@
+[
+  {
+    "store_id": 1,
+    "quantity_in_stock": 100,
+    "isbn": 1
+  },
+  {
+    "store_id": 2,
+    "quantity_in_stock": 200,
+    "isbn": 2
+  }
+]

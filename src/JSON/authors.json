@@ -1,0 +1,16 @@
+[
+  {
+    "author_id": 1,
+    "author_name": "ทศพล",
+    "customer_id": 1,
+    "author_signatures": "บ้านแมว",
+    "active_flag": true
+  },
+  {
+    "author_id": 2,
+    "author_name": "ทศพล",
+    "customer_id": 2,
+    "author_signatures": "บ้านไก่",
+    "active_flag": true
+  }
+]

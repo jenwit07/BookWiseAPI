@@ -1,0 +1,4 @@
+npm run start:dev >> start server
+npm run create:model >> generate models
+https://github.com/sequelize/sequelize-auto
+https://medium.com/@ittipon.bay/generate-model-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-sequelize-e1ca6fcd9bd2

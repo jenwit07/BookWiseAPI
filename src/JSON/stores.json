@@ -1,0 +1,16 @@
+[
+  {
+    "stores_id": 1,
+    "address_id": 1,
+    "stores_name": "ku-eng",
+    "stores_details": "engineer",
+    "active_flag": true
+  },
+  {
+    "stores_id": 2,
+    "address_id": 2,
+    "stores_name": "cu-eng",
+    "stores_details": "engineer",
+    "active_flag": true
+  }
+]

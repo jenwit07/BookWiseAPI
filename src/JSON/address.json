@@ -1,0 +1,38 @@
+[
+  {
+    "address_id": 1,
+    "lat_long": "(13.844214,100.569104)",
+    "zipcode": "10900",
+    "addressLine1": "50 ถนน งามวงศ์วาน แขวง ลาดยาว เขตจตุจักร กรุงเทพมหานคร",
+    "addressLine2": null,
+    "active_flag": true,
+    "province": null,
+    "amphoe": null,
+    "district": null,
+    "university": "Kasetsart University"
+  },
+  {
+    "address_id": 2,
+    "lat_long": null,
+    "zipcode": "10900",
+    "addressLine1": "50 ถนน งามวงศ์วาน แขวง ลาดยาว เขตจตุจักร กรุงเทพมหานคร",
+    "addressLine2": null,
+    "active_flag": true,
+    "province": null,
+    "amphoe": null,
+    "district": null,
+    "university": "Chula"
+  },
+  {
+    "address_id": 3,
+    "lat_long": null,
+    "zipcode": "10900",
+    "addressLine1": "50 ถนน งามวงศ์วาน แขวง ลาดยาว เขตจตุจักร กรุงเทพมหานคร",
+    "addressLine2": null,
+    "active_flag": true,
+    "province": null,
+    "amphoe": null,
+    "district": null,
+    "university": "Thammasart"
+  }
+]

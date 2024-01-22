@@ -1,0 +1,29 @@
+[
+  {
+    "isbn": 1,
+    "author_id": 1,
+    "book_title": "วิชาเลข",
+    "book_desc": "สำหรับทดสอบ",
+    "date_of_publication": null,
+    "book_payload": "{}",
+    "active_ﬂag": true
+  },
+  {
+    "isbn": 2,
+    "author_id": 2,
+    "book_title": "วิชาเลข",
+    "book_desc": "สำหรับทดสอบ",
+    "date_of_publication": null,
+    "book_payload": "{}",
+    "active_ﬂag": true
+  },
+  {
+    "isbn": 3,
+    "author_id": 1,
+    "book_title": "Eng",
+    "book_desc": null,
+    "date_of_publication": null,
+    "book_payload": null,
+    "active_ﬂag": true
+  }
+]

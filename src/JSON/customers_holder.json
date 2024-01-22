@@ -1,0 +1,10 @@
+[
+  {
+    "customer_id": 1,
+    "product_id": 1,
+    "transaction_id": "1",
+    "book_expired_date": null,
+    "active_flag": true,
+    "isbn": 1
+  }
+]

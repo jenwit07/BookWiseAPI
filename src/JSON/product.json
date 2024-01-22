@@ -1,0 +1,24 @@
+[
+  {
+    "product_id": 2,
+    "authors_id": 1,
+    "start_rating": 5,
+    "prices": 100,
+    "saving": 0,
+    "service_charge": 2,
+    "author_earn": 8,
+    "active_flag": true,
+    "isbn": 1
+  },
+  {
+    "product_id": 1,
+    "authors_id": 1,
+    "start_rating": 3,
+    "prices": 15,
+    "saving": 0,
+    "service_charge": 0.1,
+    "author_earn": 14.9,
+    "active_flag": true,
+    "isbn": 2
+  }
+]

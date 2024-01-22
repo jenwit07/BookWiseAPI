@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  anakinnodejs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: anakinnodejs
+    container_name: anakinnodejs
+    restart: "always"
+    networks:
+      - wajito-backoffice-server_app-network
+      - san_francisco_default
+
+networks:
+  wajito-backoffice-server_app-network:
+    external: true
+  san_francisco_default:
+    external: true

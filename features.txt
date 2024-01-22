@@ -1,0 +1,52 @@
+WEB SUPPORT : RBAC, PRODUCTS, STORES, CUSTOMERS, AUTHORS, TRANSACTION
+
+### Features ###
+PRODUCT
+ - Upload
+ - APPROVE / REJECT (FLOW)
+ - LIST OF PRODUCT
+
+STORES
+ - CRUD STORES
+
+CUSTOMERS
+ - CRUD CUSTOMERS
+ - Check TRANSACTION
+ - Add/Remove Credit Balance
+ - Customer Product's Holder
+ - Customer Favorite
+ - Customer Chat
+
+AUTHORS
+ - Authors Balance
+ - Authors Payment (Approve / Reject / Cancel / Fail / Success)
+
+Transaction
+ - See Transaction
+ - Search Transaction
+ - Print Transaction
+
+### API ###
+
+PRODUCT
+ - Book ISBN CRUD
+ - Product CRUD
+
+STORES
+ - STORES CRUD
+
+CUSTOMERS
+ - Customers CRUD (**ADD CREDIT)
+ - Customer's holder CRUD
+
+AUTHORS
+ - Authors (Read Update Delete)
+ - Authors Payment API
+
+Transaction
+ - Read Transaction API
+ 
+
+
+
+  

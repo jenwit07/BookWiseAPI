@@ -1,0 +1,8 @@
+[
+  {
+    "author_id": 1,
+    "customer_id": 1,
+    "amount": 100,
+    "active_flag": true
+  }
+]
